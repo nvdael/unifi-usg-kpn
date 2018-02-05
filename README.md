@@ -20,7 +20,6 @@ Go to: USG -> Device Management and click Force provision
 
 
 
-
 Dynamic IPTV route updates:
 Upload update_iptv_route.sh to your USG to /config/scripts/post-config.d/
 Execute: chmod +x /config/scripts/post-config.d/update_iptv_route.sh
