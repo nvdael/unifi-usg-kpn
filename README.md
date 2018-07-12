@@ -4,8 +4,8 @@ Unifi USG Configuration for use with KPN FTTH
 
 Simple configuration to implement Ubiquiti Unifi USG router with Dutch FTTU provider KPN Glasvezel. </br>
 
-Hardware: Ubiquiti Unifi USG-3 Firmware 4.4.18.5052168 </br>
-Software: Unifi version 5.6.30 </br>
+Hardware: Ubiquiti Unifi USG-3 Firmware 4.4.22.5086045 </br>
+Software: Unifi CloudKey version 5.8.24-11016 / Firmware UCK.mtk7623.v0.11.4.a7e4cad.180629.1434 </br>
 
 To easy setup: Download and edit config.gateway.json and search for @kpn. Fill in your router mac-address and save json file. </br>
 My router ip-address is 192.168.2.254 , please change all you can find in this json to the one you want. </br>
